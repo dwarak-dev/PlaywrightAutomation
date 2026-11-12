@@ -1,0 +1,25 @@
+
+# .NET generated files
+**/bin/
+**/obj/
+
+# Test results
+**/TestResults/
+*.trx
+
+# Playwright reports and artifacts
+playwright-report/
+test-results/
+playwright/.cache/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
